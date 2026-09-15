@@ -1,0 +1,11 @@
+config/email_secret.txt
+config/email_config.json
+data/
+logs/
+__pycache__/
+*.pyc
+*.lnk
+*.zip
+imports/[0-9][0-9][0-9][0-9]-*.md
+imports/[0-9][0-9][0-9][0-9]-*.txt
+.venv/
